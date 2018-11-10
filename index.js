@@ -1,7 +1,6 @@
 
-const string;
-
-function shout(string) {
+const string()=>
+shout(string) {
 }
 
 
